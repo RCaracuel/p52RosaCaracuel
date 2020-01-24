@@ -5,9 +5,15 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Mi primera WebApp con Java</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Despliegue de Aplicaciones Web. 2º DAW</h1>
+        <h1>Aplicación web de Rosa Caracuel</h1>
+        <ul>
+            <li>
+                <h2><a href="saludo.jsp">Saludo con JSP</a></h2>
+            </li>
+        </ul>
     </body>
 </html>
